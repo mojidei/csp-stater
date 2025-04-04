@@ -1,0 +1,5 @@
+/.venv/
+/build/
+/dist/
+auto_start.spec
+/.idea/
