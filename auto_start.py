@@ -18,6 +18,5 @@ if windows:
 
     # 发送密码
     pyautogui.write(
-        "lai2 zi4 bbs.itzmx.com mian3 fei4 fen1 xiang3 fa1 xian4 fan4 mai4 tui4 kuan3 cha4 ping2 ju3 bao4 bbs.itzmx.com Always Free",
-        interval=0.05)
+        "lai2 zi4 bbs.itzmx.com mian3 fei4 fen1 xiang3 fa1 xian4 fan4 mai4 tui4 kuan3 cha4 ping2 ju3 bao4 bbs.itzmx.com Always Free")
     pyautogui.press("enter")
