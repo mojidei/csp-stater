@@ -9,3 +9,6 @@ release里面下载exe文件。
 ```ps
 pyinstaller --onefile --noconsole --icon=icon.ico auto_start.py
 ```
+
+## 更新日志
+2025.5.3 对应版本v4.0.3 新增检测输入法是否为英文的功能
